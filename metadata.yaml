@@ -1,0 +1,6 @@
+homepage: "https://www.webtoffee.com"
+documentation: "https://www.webtoffee.com/docs/gdpr-plugin/set-up-google-additional-consent/"
+versions:
+  # latest version
+  - sha:  44e91921ad3bca69f790f210427e9342fda07c98
+    changeNotes: Initial release
